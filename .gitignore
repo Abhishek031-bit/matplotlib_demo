@@ -125,5 +125,3 @@ dmypy.json
 uv.lock
 
 
-# ruff
-.ruff-cache/
